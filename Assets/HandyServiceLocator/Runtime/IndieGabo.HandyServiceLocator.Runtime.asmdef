@@ -1,6 +1,6 @@
 {
-    "name": "IndieGabo.HandyBus.Runtime",
-    "rootNamespace": "IndieGabo.HandyBus",
+    "name": "IndieGabo.HandyServiceLocator.Runtime",
+    "rootNamespace": "IndieGabo.HandyServiceLocator",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
