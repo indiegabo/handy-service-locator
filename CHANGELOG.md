@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/indiegabo/handy-service-locator/compare/v1.0.2...v1.0.3) (2024-08-07)
+
+
+### Bug Fixes
+
+* Readme stuff ([c7f32e5](https://github.com/indiegabo/handy-service-locator/commit/c7f32e534ae33592965cd7f24deadfa6df52147b))
+
 ## [1.0.2](https://github.com/indiegabo/handy-service-locator/compare/v1.0.1...v1.0.2) (2024-08-07)
 
 
