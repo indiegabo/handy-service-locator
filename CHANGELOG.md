@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/indiegabo/handy-service-locator/compare/v1.0.1...v1.0.2) (2024-08-07)
+
+
+### Bug Fixes
+
+* Package Display Name ([5bded81](https://github.com/indiegabo/handy-service-locator/commit/5bded8151a723164db0e8f98936b2a0f5d6c55b0))
+* Version ([ebdb1e8](https://github.com/indiegabo/handy-service-locator/commit/ebdb1e8def936fc73bbeae3efc856eda87057e5a))
+
 ## [1.0.1](https://github.com/indiegabo/handy-service-locator/compare/v1.0.0...v1.0.1) (2024-08-07)
 
 
