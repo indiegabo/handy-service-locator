@@ -1,6 +1,6 @@
 {
   "name": "com.indiegabo.handy-service-locator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Handy Service Locator",
   "description": "A solution that creates a service locator to be used in any project.",
   "unity": "2022.3",
